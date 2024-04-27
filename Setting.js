@@ -78,7 +78,7 @@ module.exports = {
   sessionName: process.env.SESSION_ID || '26_04_2024_SIGMA_MD_JU9mJsRi_MAHER_ZUBAIR',              // PUT YOUR SESSION ID
   botname: process.env.BOT_NAME       || 'DD_SIGMA_MD',         // ADD YOUR BOT NAME
   ownername:  process.env.OWNER_NAME  || `DEBASHIS`, // ADD YOUR NAME
-  HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
+  HANDLERS: process.env.PREFIX        || '',              // ADD YOUR BOT PREFIX
   WORKTYPE: process.env.WORKTYPE      || 'public',      // IF PRIVATE ONLY YOU CAN USE YOUR BOT, IF PUBLIC EVERYONE CAN USE YOUR BOT
   //================================================================================
 
